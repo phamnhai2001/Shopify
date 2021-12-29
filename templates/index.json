@@ -1,13 +1,13 @@
 {
   "sections": {
     "image_banner": {
-      "type": "image_banner",
+      "type": "image-banner",
       "settings": {
         "desktop_content_position": "middle-center"
       }
     },
     "featured_products": {
-      "type": "featured_collection",
+      "type": "featured-collection",
       "settings": {
         "title": "Featured products",
         "collection": "all",
