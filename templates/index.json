@@ -17,11 +17,6 @@
       "collage": {
         "type": "collage",
         "blocks": {
-          "video": {
-            "type": "video",
-            "settings": {
-            }
-          },
           "product": {
             "type": "product",
             "settings": {
@@ -34,41 +29,8 @@
           }
         },
         "block_order": [
-          "video",
           "product",
           "collection"
-        ],
-        "settings": {
-        }
-      },
-      "video": {
-        "type": "video",
-        "settings": {
-        }
-      },
-      "multi_column": {
-        "type": "multicolumn",
-        "blocks": {
-          "column1": {
-            "type": "column",
-            "settings": {
-            }
-          },
-          "column2": {
-            "type": "column",
-            "settings": {
-            }
-          },
-          "column3": {
-            "type": "column",
-            "settings": {
-            }
-          }
-        },
-        "block_order": [
-          "column1",
-          "column2",
-          "column3"
         ],
         "settings": {
         }
